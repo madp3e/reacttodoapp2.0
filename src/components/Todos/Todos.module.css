@@ -1,0 +1,16 @@
+.todoTable{
+    width: 60%;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.deleteButton{
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    color: rgb(59, 52, 52) !important;
+}
+.editButton{
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+    color: rgb(59, 52, 52) !important;
+    margin-right: 4px !important;
+}
